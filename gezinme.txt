@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ilk yapılan
 
 ikincp
 
 bu da üçüncü yaptigm again
+=======
+ilk yapılan
+>>>>>>> parent of 15ace52 (second revision)
